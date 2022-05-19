@@ -9,14 +9,14 @@ I made my with https://codesandbox.io/s/github-profile-2ijk7
 Then read the bolg https://genesisorgcn.notion.site/Github-edcadaca52e34ad6b26539d1ffc17ea4
 -->
 
-## Hi there, [StevenLiu](https://blog.genesis.org.cn) here 👋🏼👨🏻‍💻
+## Hi there, [StevenLiu](http://genesis.org.cn) here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-tonysteven1996@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonysteven1996@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Steven_Liu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%B6%B5-steven-%E5%88%98-1b8b30118/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@StevenL365404-0088CC?style=flat&logo=Telegram&logoColor=white)](t.me/StevenL365404 "Contact on Telegram")
+[![Telegram Badge](https://img.shields.io/badge/-@StevenL365404-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/StevenL365404 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@Steven__Liu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Steven__Liu "Follow on Twitter")
 
-<a href="blog.genesis.org.cn"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/hand_v.png" align="right" height="275" /></a>
+<a href="http://genesis.org.cn/"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/hand_v.png" align="right" height="275" /></a>
 
 I am a Software Development Engineer, who is passionate about java , Pythonic programming :snake:, and open source :
 octocat:. I love to learn and contribute in any and every possible way.
@@ -32,7 +32,7 @@ octocat:. I love to learn and contribute in any and every possible way.
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
 
-<a href="blog.genesis.org.cn"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/laptop.png" align="right" height="200" /></a>
+<a href="http://genesis.org.cn/"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/laptop.png" align="right" height="200" /></a>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=TonySteven&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TonySteven)
 
@@ -45,7 +45,7 @@ octocat:. I love to learn and contribute in any and every possible way.
 <details>
   <summary>Find me around the web :globe_with_meridians:</summary>
 
-<a href="https://samujjwaal.me/"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/hi.png" align="right" height="150" /></a>
+<a href="http://genesis.org.cn/"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/hi.png" align="right" height="150" /></a>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/stevenl365404/ "Follow on Instagram")
 
