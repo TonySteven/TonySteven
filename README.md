@@ -16,7 +16,7 @@ Then read the bolg https://genesisorgcn.notion.site/Github-edcadaca52e34ad6b2653
 [![Telegram Badge](https://img.shields.io/badge/-@StevenL365404-0088CC?style=flat&logo=Telegram&logoColor=white)](t.me/StevenL365404 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@Steven__Liu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Steven__Liu "Follow on Twitter")
 
-<a href="blog.genesis.org.cn"><img src="https://github.com/TonySteven/TonySteven/raw/master/assets/images/hand_v.png" align="right" height="275" /></a>
+<a href="blog.genesis.org.cn"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/hand_v.png" align="right" height="275" /></a>
 
 I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who
 is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn
