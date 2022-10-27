@@ -15,6 +15,7 @@ Then read the bolg https://genesisorgcn.notion.site/Github-edcadaca52e34ad6b2653
 [![Linkedin Badge](https://img.shields.io/badge/-Steven_Liu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%B6%B5-steven-%E5%88%98-1b8b30118/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@StevenL365404-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/StevenL365404 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@Steven__Liu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Steven__Liu "Follow on Twitter")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/stevenl365404/ "Follow on Instagram")
 
 <a href="http://genesis.org.cn/"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/hand_v.png" align="right" height="275" /></a>
 
@@ -46,16 +47,17 @@ So far, using [Notion](https://www.notion.so/) as a second brain.
 </details>
 
 
-<details>
-  <summary>Find me around the web :globe_with_meridians:</summary>
+[//]: # (<details>)
 
-<a href="http://genesis.org.cn/"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/hi.png" align="right" height="150" /></a>
+[//]: # (  <summary>Find me around the web :globe_with_meridians:</summary>)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/stevenl365404/ "Follow on Instagram")
+[//]: # ()
 
-----
+[//]: # (<a href="http://genesis.org.cn/"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/hi.png" align="right" height="150" /></a>)
 
-</details>
+[//]: # ()
+
+[//]: # (</details>)
 <!--
 **TonySteven/TonySteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
