@@ -19,8 +19,7 @@ Then read the bolg https://genesisorgcn.notion.site/Github-edcadaca52e34ad6b2653
 
 <a href="http://genesis.org.cn/"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/hand_v.png" align="right" height="275" /></a>
 
-I am a Software Development Engineer, who is passionate about java , Pythonic programming :snake:, and open source :
-octokit:.
+I am a Software Development Engineer, who is passionate about java , Pythonic programming :snake:, and open source.
 
 I love to learn and contribute in any and every possible way.
 So far, using [Notion](https://www.notion.so/) as a second brain.
