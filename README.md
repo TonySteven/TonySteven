@@ -24,9 +24,8 @@ I am a Software Development Engineer, who is passionate about java , Pythonic pr
 I love to learn and contribute in any and every possible way.
 So far, using [Notion](https://www.notion.so/) as a second brain.
 
-- 🔭 I’m currently working on [大鹏教育](https://www.dapengjiaoyu.cn/) as a Software Development Engineer.
-- 📚 Here's
-  my [notion book database](https://genesisorgcn.notion.site/277b7a7e5558458ba409dbd353805c4a?v=490c59a55876498d90cf151000a88d91)
+[//]: # (- 🔭 I’m currently working on [大鹏教育]&#40;https://www.dapengjiaoyu.cn/&#41; as a Software Development Engineer.)
+- 📚 Here's my [notion book database](https://genesisorgcn.notion.site/277b7a7e5558458ba409dbd353805c4a?v=490c59a55876498d90cf151000a88d91)
 - 🖥️ Here's my [notion blog](https://genesisorgcn.notion.site/Steven-s-Blog-a23cda43cbe54fcb9243ec9294ac235a)
 - 📝 Here's my [notion resume](https://genesisorgcn.notion.site/Steven-Liu-c6dcfd78caef451cb3bfa736329a554f)
 - 🌱 I’m currently learning  *硅谷来信2:谷歌方法论*
@@ -34,7 +33,7 @@ So far, using [Notion](https://www.notion.so/) as a second brain.
 - 💬 Talk to me about Science, Technology, and Engineering.
 
 <details>
-  <summary>Some of my Github Public Stats :computer:</summary>
+  <summary>Some of my GitHub Public Stats :computer:</summary>
 
 <a href="http://genesis.org.cn/"><img src="https://github.com/TonySteven/TonySteven/blob/main/assets/images/laptop.png" align="right" height="200" /></a>
 
