@@ -24,10 +24,12 @@ I am a Software Development Engineer, who is passionate about java , Pythonic pr
 I love to learn and contribute in any and every possible way.
 So far, using [Notion](https://www.notion.so/) as a second brain.
 
-[//]: # (- 🔭 I’m currently working on [大鹏教育]&#40;https://www.dapengjiaoyu.cn/&#41; as a Software Development Engineer.)
-- 📚 Here's my [notion book database](https://genesisorgcn.notion.site/277b7a7e5558458ba409dbd353805c4a?v=490c59a55876498d90cf151000a88d91)
-- 🖥️ Here's my [notion blog](https://genesisorgcn.notion.site/Steven-s-Blog-a23cda43cbe54fcb9243ec9294ac235a)
-- 📝 Here's my [notion resume](https://genesisorgcn.notion.site/Steven-Liu-c6dcfd78caef451cb3bfa736329a554f)
+- 🔭 I’m currently working on [半天妖](http://www.bantianyaozg.com/) as a Software Development Engineer in supply chain
+  group.
+- 📚 Here's
+  my [notion book database](https://genesisorg.notion.site/277b7a7e5558458ba409dbd353805c4a?v=490c59a55876498d90cf151000a88d91)
+- 🖥️ Here's my [notion blog](https://genesisorg.notion.site/Steven-s-Blog-a23cda43cbe54fcb9243ec9294ac235a)
+- 📝 Here's my [notion resume](https://genesisorg.notion.site/Steven-Liu-c6dcfd78caef451cb3bfa736329a554f)
 - 🌱 I’m currently learning
     - [吴军来信 世界文明史](https://genesisorg.notion.site/ac7a946be7914546a9cb4f4afc670a9e)
     - [富足](https://genesisorg.notion.site/e040eba3d755427189e4a18fd9f09333)
