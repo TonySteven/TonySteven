@@ -29,9 +29,9 @@ So far, using [Notion](https://www.notion.so/) as a second brain.
 - 🖥️ Here's my [notion blog](https://genesisorgcn.notion.site/Steven-s-Blog-a23cda43cbe54fcb9243ec9294ac235a)
 - 📝 Here's my [notion resume](https://genesisorgcn.notion.site/Steven-Liu-c6dcfd78caef451cb3bfa736329a554f)
 - 🌱 I’m currently learning
-  - [深入理解Java虚拟机](https://genesisorgcn.notion.site/Java-JVM-328da007838343019f66301f98037a75)
-  - [凤凰架构 : 构建可靠的大型分布式系统](https://genesisorgcn.notion.site/57052b31d3104dd7aea6ac1c52bb9f5c)
-  - [Redis 深度历险：核心原理与应用实践](https://genesisorgcn.notion.site/Redis-4798110e53864ff8a8828b4bacc3d639)
+    - [吴军来信 世界文明史](https://genesisorg.notion.site/ac7a946be7914546a9cb4f4afc670a9e)
+    - [富足](https://genesisorg.notion.site/e040eba3d755427189e4a18fd9f09333)
+    - [The Unfair Advantage 不公平优势](https://genesisorg.notion.site/The-Unfair-Advantage-How-You-Already-Have-What-It-Takes-to-succeed-0fa0a07f4486483d9262f6e704a8bb86)
 - 📭 Reach out for help with Java, Python, and Spring Cloud support.
 - 💬 Talk to me about Science, Technology, and Engineering.
 
