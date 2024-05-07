@@ -27,13 +27,12 @@ So far, using [Notion](https://www.notion.so/) as a second brain.
 - 🔭 I’m currently working on [半天妖](http://www.bantianyaozg.com/) as a Software Development Engineer in supply chain
   group.
 - 📚 Here's
-  my [notion book database](https://genesisorg.notion.site/277b7a7e5558458ba409dbd353805c4a?v=490c59a55876498d90cf151000a88d91)
-- 🖥️ Here's my [notion blog](https://genesisorg.notion.site/Steven-s-Blog-a23cda43cbe54fcb9243ec9294ac235a)
-- 📝 Here's my [notion resume](https://genesisorg.notion.site/Steven-Liu-c6dcfd78caef451cb3bfa736329a554f)
+  my [notion book database](https://genesis-org.notion.site/518609de51804e1c8095ae69abfc5cff?v=f48a440afc74485d907c1493fcc9b6e6&pvs=4)
+- 🖥️ Here's my [notion blog](https://genesis-org.notion.site/Steven-s-Blog-20997440274a4ba09b121a071c4d4982?pvs=4)
+- 📝 Here's my [notion résumé](https://genesis-org.notion.site/Steven-Liu-ce59135225134c2ab806895d55e35768?pvs=4)
 - 🌱 I’m currently learning
-    - [吴军来信 世界文明史](https://genesisorg.notion.site/ac7a946be7914546a9cb4f4afc670a9e)
-    - [富足](https://genesisorg.notion.site/e040eba3d755427189e4a18fd9f09333)
-    - [The Unfair Advantage 不公平优势](https://genesisorg.notion.site/The-Unfair-Advantage-How-You-Already-Have-What-It-Takes-to-succeed-0fa0a07f4486483d9262f6e704a8bb86)
+  - [卓越--吴军](https://genesis-org.notion.site/5a143b5cf0c74c94aa0a6638e03b30d1?pvs=4)
+  - [境界--吴军](https://genesis-org.notion.site/8d1fb12cf63a44758a0e89904d287178?pvs=4)
 - 📭 Reach out for help with Java, Python, and Spring Cloud support.
 - 💬 Talk to me about Science, Technology, and Engineering.
 
